@@ -13,7 +13,7 @@ export default class MovieShowcase extends Component {
           genres={movie.genres}
           poster={movie.poster}
          />
-      })
+      }))
       
   }
 
