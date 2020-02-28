@@ -14,7 +14,7 @@ export default class MovieShowcase extends Component {
           poster={movie.poster}
          />
       })
-      )
+      
   }
 
   render() {
